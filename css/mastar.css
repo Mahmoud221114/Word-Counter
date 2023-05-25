@@ -5,7 +5,7 @@
   font-family: "poppins", sans-serif;
 }
 body {
-  background-color: #8b5c8b;
+  background-color: #9E9E9E;
 }
 .wrapper {
   position: absolute;
@@ -30,7 +30,7 @@ textarea {
   color: #0e101a;
 }
 .count {
-  background-color: #000000;
+  background-color: #607D8B;
   width: 80%;
   padding: 20px;
   position: relative;
